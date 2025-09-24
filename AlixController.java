@@ -6,7 +6,6 @@ import com.cronutils.model.CronType;
 import com.cronutils.model.definition.CronDefinitionBuilder;
 import com.cronutils.parser.CronParser;
 import org.springframework.stereotype.Component;
-
 import java.util.Locale; // Per la lingua italiana
 
 @Component
