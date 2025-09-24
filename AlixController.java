@@ -16,7 +16,6 @@ public class AlixController {
         // Se la tua espressione Quartz include i secondi (come "0 0/1 * ? * *"), usa CronType.QUARTZ
         // Se non include i secondi (come "* 0/1 * * *"), usa CronType.UNIX
         CronParser parser = new CronParser(CronDefinitionBuilder.instanceDefinitionFor(CronType.QUARTZ));
-
         Cron cron = parser.parse(cronExpression);
 
         // Crea un descrittore per la lingua italiana
