@@ -6,3 +6,4 @@ Indice delle ricette contenute nel repository
 03) Francia.java
 04) LICENCE.txt
 05) MinestroneVerdure.md
+06) SalmoneCartoccio.md
