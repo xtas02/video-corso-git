@@ -26,7 +26,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Francia",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
@@ -57,7 +57,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Francia" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
