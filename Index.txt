@@ -1,9 +1,17 @@
 Indice delle ricette contenute nel repository
 
 ## Indice delle ricette
+
+### Primi
 01) AlixApplication.java
 02) AlixController.java
+
+### Secondi
+
 03) Francia.java
 04) LICENCE.txt
+
+### Zuppe
+
 05) MinestroneVerdure.md
 06) SalmoneCartoccio.md
